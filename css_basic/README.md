@@ -1,1 +1,1 @@
-#  Flex box introdactory excercises
+# css basics projects
