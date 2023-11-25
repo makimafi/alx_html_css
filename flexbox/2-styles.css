@@ -372,12 +372,10 @@
   }
   
   /*** 4. CARD ***/
-  
+  /* Section Latest news ============================= */
   /* Card (all styles)
       ============================= */
-
   /* Section Latest news ============================= */
-
   .section-latest-news .row {
     flex-direction: row-reverse;
 
