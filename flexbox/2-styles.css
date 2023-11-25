@@ -23,7 +23,6 @@
     --color-grey: #a0a0a0;
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
-  
     --text-color: var(--color-black);
   
     --font-family-base: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -376,11 +375,17 @@
   
   /* Card (all styles)
       ============================= */
-  
+
+  /* Section Latest news ============================= */
+
+  .section-latest-news .row {
+    flex-direction: row-reverse;
+
+  }
   .card-category {
     color: var(--color-primary);
   }
-  
+
   /* Card WORK
       ============================= */
   .section-works {
